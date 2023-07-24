@@ -8,13 +8,15 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "about"
-    url: /about
-  - title: "Home"
-    url: https://kokoko12305.github.io/
+  - title: "profile"
+    url: /profile
+  # - title: "Home"
+  #   url: https://kokoko12305.github.io/
 
 
 # categories
 categories:
   - title: "SAS"
     url: /categories/SAS/
+  - title: "Work Log"
+    url: /categories/Work Log/
