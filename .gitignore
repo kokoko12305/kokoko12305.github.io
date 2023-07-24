@@ -27,3 +27,12 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# sample files
+docs
+
+# mylink
+memo.txt
+
+# post sample
+post samples/
